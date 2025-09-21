@@ -1,0 +1,33 @@
+# Docker files
+compose.dev.yaml
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build and dependency directories
+/bin/
+/build/
+/dist/
+/vendor/
+
+# IDE/editor files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+.DS_Store
+
+# Go module files (optional, if you don't want to commit vendor)
+go.sum
+
+# Logs
+*.log
+
+# Environment files
+.env
