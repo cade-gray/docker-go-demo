@@ -23,8 +23,6 @@ compose.dev.yaml
 *.vscode/
 .DS_Store
 
-# Go module files (optional, if you don't want to commit vendor)
-go.sum
 
 # Logs
 *.log
